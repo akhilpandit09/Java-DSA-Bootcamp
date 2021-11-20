@@ -23,18 +23,6 @@ public class Operator {
                     float divide = x / y;
                     System.out.println("Divide=" + divide);
                 }
-           /*
-           while(ch=='y');
-                System.out.println("Do you want to perform again (y/n):");
-                char again = input.next().charAt(0);
-                if(again=='y'){
-                    System.out.println("Enter any two numbers:");
-                     x = input.nextFloat();
-                     y = input.nextFloat();
-                    System.out.println("\nChoose the operation to perform (+,-,*,/)");
-                     ch = input.next().charAt(0);
-                }
-                */
 
             }
     }
